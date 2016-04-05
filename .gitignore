@@ -13,6 +13,6 @@ test_wl.csv
 test_wl_ugids.csv
 combined.csv
 readme.docx
-Untitled.ipynb
-analysis.py
-.idea/
+.idea
+__pycache__
+.DS_Store
